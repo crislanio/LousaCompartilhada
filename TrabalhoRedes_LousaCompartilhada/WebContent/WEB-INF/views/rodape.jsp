@@ -11,7 +11,7 @@
 <footer>
 	<ul>
 		<span id="f_direita">
-			<a href="principal?classe=SobreServlets"> <img id="cc" src="${sobre}" alt="Sobre" height="32" /></a>
+			<a href="sobreSpring"> <img id="cc" src="${sobre}" alt="Sobre" height="32" /></a>
 		</span>
 		<li><strong>Equipe:</strong></li>
 		<li>David Oliveira,</li>

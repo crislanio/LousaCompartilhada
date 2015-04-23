@@ -9,14 +9,14 @@
 </head>
 <header>
 	<span id="h_esquerda">
-		<a href="index.jsp"><img src="${home}" alt="Inicial" /></a>
+		<a href="lousaCompartilhadaSpring"><img src="${home}" alt="Inicial" /></a>
 	</span>
 	<span id="h_direita">
 		<a href="http://www.cc.quixada.ufc.br/" target="_blank"><img src="${cc}" alt="UFC - Quixadá CC" /></a>
 		&nbsp;
 		<a href="http://www.quixada.ufc.br/" target="_blank"><img src="${logo}" alt="UFC - Quixadá" /></a>
 	</span>
-	<p id="cab">
+	<p id="cabecalhoSpring">
 		UFC | Campus Quixadá
 		<br>
 		Redes De Computadores | Prof: Artur Callado

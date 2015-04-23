@@ -17,11 +17,11 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-   <c:import url="cabecalho.jsp" />
+   <c:import url="cabecalhoSpring" />
 	
 	<article></article>
 	
-	<footer> <c:import url="rodape.jsp" /> </footer>
+	<footer> <c:import url="rodapeSpring" /> </footer>
 	
 	
 	<script type="text/javascript">

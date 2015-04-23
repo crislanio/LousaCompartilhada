@@ -17,13 +17,13 @@
 </head>
 <body>
 	
-   <c:import url="cabecalho.jsp" />
+   <c:import url="cabecalhoSpring" />
 		<div id="conteudo">
 			<br>
 			<h1>Redes de Computadores</h1>
 			
 			<p>
-			<small>Última modificação: 01/04/2015</small>
+			<small>Última modificação: 22/04/2015</small>
 			<br>
 			A disciplina de <b>Redes de Computadores</b> do curso de <b>Ciência da Computação</b> da <b>Universidade Federal do Ceará</b> visa dar subsídio para que o aluno compreenda os conceitos básicos de redes de computadores, seus componentes, funcionamento e gerenciamento para ajudá-lo a ter uma visão mais aprofundada no desenvolvimento de sistemas com qualidade na utilização dos recursos computacionais.</p>
 			
@@ -50,6 +50,6 @@
 				- https://github.com/byrichardpowell/draw
 			</p>
 		</div>
-   <c:import url="rodape.jsp" />
+   <c:import url="rodapeSpring" />
 	
 </body>
