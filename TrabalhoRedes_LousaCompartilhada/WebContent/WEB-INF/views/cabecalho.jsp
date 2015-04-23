@@ -5,7 +5,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <header>
 	<span id="h_esquerda">
@@ -16,7 +16,7 @@
 		&nbsp;
 		<a href="http://www.quixada.ufc.br/" target="_blank"><img src="${logo}" alt="UFC - Quixadá" /></a>
 	</span>
-	<p id="cabecalhoSpring">
+	<p id="cab">
 		UFC | Campus Quixadá
 		<br>
 		Redes De Computadores | Prof: Artur Callado

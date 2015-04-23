@@ -106,7 +106,7 @@ canvas {
 	background: #000000;
 	margin: 15px auto;
 	display: block;
-	background-image: url('imagens/quadroBg1.png');
+	background-image: url('imagens/lousa.png');
 	z-index: 2;
 	box-shadow: 1px 3px 5px #9c9c9c;
 }

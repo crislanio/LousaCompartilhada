@@ -14,7 +14,7 @@
 	
 	<script type="text/javascript" src="http://127.0.0.1:8081/socket.io/socket.io.js"></script>	
 	<script type="text/javascript" src="js/scripts.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <body>
    <c:import url="cabecalhoSpring" />
@@ -38,3 +38,4 @@
 		});
 	</script>
 </body>
+</html>

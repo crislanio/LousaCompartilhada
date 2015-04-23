@@ -13,7 +13,7 @@
 	<script type="text/javascript" src="js/jquery.event.drag-2.0.js"></script>
 		
 	<script type="text/javascript" src="js/scripts.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <body>
 	
