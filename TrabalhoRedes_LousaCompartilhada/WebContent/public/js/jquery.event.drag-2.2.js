@@ -1,11 +1,3 @@
-/*! 
- * jquery.event.drag - v 2.2
- * Copyright (c) 2010 Three Dub Media - http://threedubmedia.com
- * Open Source MIT License - http://threedubmedia.com/code/license
- */
-// Created: 2008-06-04 
-// Updated: 2012-05-21
-// REQUIRES: jquery 1.7.x
 
 ;(function( $ ){
 
@@ -178,7 +170,7 @@ drag = $special.drag = {
 			case !dd.dragging && 'touchmove': 
 				event.preventDefault();
 			case !dd.dragging && 'mousemove':
-				//  drag tolerance, x² + y² = distance²
+				//  drag tolerance, xï¿½ + yï¿½ = distanceï¿½
 				if ( Math.pow(  event.pageX-dd.pageX, 2 ) + Math.pow(  event.pageY-dd.pageY, 2 ) < Math.pow( dd.distance, 2 ) ) 
 					break; // distance tolerance not reached
 				event.target = dd.target; // force target from "mousedown" event (fix distance issue)

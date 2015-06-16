@@ -18,7 +18,7 @@
     App.ctx.lineCap = "round";
     
     // Faz a conexão com o socket
-    App.socket = io.connect('http://10.0.104.205:8081');
+    App.socket = io.connect('http://localhost:8081');
     
     App.socket.on('draw', function(data) {
       return App.draw(data.x, data.y, data.type);

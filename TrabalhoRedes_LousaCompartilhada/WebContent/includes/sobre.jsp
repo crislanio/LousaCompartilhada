@@ -9,15 +9,15 @@
 	<meta>
 	<title>Redes De Computadores - Sobre</title>
 	
-	<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="js/jquery.event.drag-2.0.js"></script>
+	<script type="text/javascript" src="public/js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="public/js/jquery.event.drag-2.0.js"></script>
 		
-	<script type="text/javascript" src="js/scripts.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<script type="text/javascript" src="public/js/scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="public/css/estilo.css">
 </head>
 <body>
 	
-   <c:import url="cabecalhoSpring" />
+   <c:import url="cabecalho.jsp" />
 		<div id="conteudo">
 			<br>
 			<h1>Redes de Computadores</h1>
@@ -50,6 +50,6 @@
 				- https://github.com/byrichardpowell/draw
 			</p>
 		</div>
-   <c:import url="rodapeSpring" />
+   <c:import url="rodape.jsp" />
 	
 </body>

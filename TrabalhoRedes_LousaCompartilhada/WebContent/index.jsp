@@ -9,19 +9,19 @@
 	<meta>
 	<title>Redes De Computadores</title>
 	
-	<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="js/jquery.event.drag-2.0.js"></script>
+	<script type="text/javascript" src="public/js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="public/js/jquery.event.drag-2.0.js"></script>
 	
 	<script type="text/javascript" src="http://127.0.0.1:8081/socket.io/socket.io.js"></script>	
-	<script type="text/javascript" src="js/scripts.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<script type="text/javascript" src="public/js/scripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="public/css/estilo.css">
 </head>
 <body>
-   <c:import url="cabecalhoSpring" />
+   <c:import url="includes/cabecalho.jsp" />
 	
 	<article></article>
 	
-	<footer> <c:import url="rodapeSpring" /> </footer>
+	<footer> <c:import url="includes/rodape.jsp" /> </footer>
 	
 	
 	<script type="text/javascript">
